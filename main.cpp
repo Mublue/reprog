@@ -41,5 +41,5 @@ printf("\n>>> ");
 // Function: get_keyword convert statement to hash
 void get_keyword(char *line, int *poin)
 {
-// TO do : make hash function and chunk line to pieces
+   // TO do : make hash function and chunk line to pieces
 }
